@@ -1,0 +1,9 @@
+## Interface: 80100
+## Title: GLELoggerTest
+## Author: gleprojects
+## DefaultState: enabled
+
+libs\LibStub\LibStub.lua
+libs\GLELogger-1.0\GLELogger-1.0.xml
+
+GLELoggerTest.lua
